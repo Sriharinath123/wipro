@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 non veg
+=======
+cube
+cube square
+cube zero
+>>>>>>> movies
